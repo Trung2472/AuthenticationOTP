@@ -1,2 +1,6 @@
 # AuthenticationOTP
-registration/generation/verify OTP/TOTP/HOTP
+registration/generation/verify 
+
+
+
+OTP/TOTP/HOTP
